@@ -52,6 +52,7 @@ class MyTestCase(unittest.TestCase):
         self.assertTrue(self.driver.find_element_by_name('语音速记').is_displayed())
         #back
         self.driver.find_element_by_name('navigationBack').click()
+        time.sleep(2)
         #检验生成了一篇语音速记在列表上
         first_item=self.driver.find_elements_by_class_name('StaticText')[2]
         self.assertTrue(first_item.get_attribute('name').startswith(unicode("语音速记")),'＊＊语音速记创建case失败！＊＊')

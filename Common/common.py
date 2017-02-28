@@ -32,7 +32,7 @@ class Common_Util():
                 'automationName': 'XCUITest',
                 'autoAcceptAlerts':'true'
             })
-        self.intro_take(N)
+        #self.intro_take(N)
         self.comment_take()
         self.login_take(login)
         time.sleep(3)
