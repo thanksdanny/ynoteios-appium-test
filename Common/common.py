@@ -19,6 +19,7 @@ login=0|1
 class Common_Util():
 
     def setup_app(self,login=1):
+
         app = os.path.abspath(
             '/Users/wujia/Library/Developer/Xcode/DerivedData/YNote-ewvbkrazcxnhicayktmrgqqwzltv/Build/'
             'Products/Debug-iphonesimulator/有道云笔记.app')

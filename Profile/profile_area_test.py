@@ -5,6 +5,9 @@
 import unittest
 import time
 import random
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 from Common.common import Common_Util
 
@@ -40,15 +43,16 @@ class MyTestCase(unittest.TestCase):
         #city
         city=random.choice(citylist)
         self.driver.find_element_by_name(city).click()
+        time.sleep(3)
         #area
-        index=random.randint(1,3)
+        index=random.randint(1,5)
         ele=self.driver.find_elements_by_class_name('StaticText')[index]
         area=ele.get_attribute('value')
-        self.ele.click()
-        time.sleep(2)
+        ele.click()
+        time.sleep(5)
         #back
         #check 帐号页上 新地区存在
-        cityarea=city+''+area
+        cityarea=unicode(city)+' '+unicode(area)
         self.assertTrue(self.driver.find_element_by_name(cityarea).is_displayed(),'****我的帐号页：修改地区失败！*****')
 
 

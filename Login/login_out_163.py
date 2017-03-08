@@ -28,6 +28,7 @@ class MyTestCase(unittest.TestCase):
         time.sleep(3)
         self.driver.quit()
 
+    @unittest.skip()
     def test_login_out_163(self):
         print "************  login out 163 user method ***********"
         #判断当前是否为 首页

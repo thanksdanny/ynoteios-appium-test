@@ -1,4 +1,9 @@
+#!/usr/local/bin/python
+# -*- coding: utf-8 -*-
 import time
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 class Create_Constant():
 

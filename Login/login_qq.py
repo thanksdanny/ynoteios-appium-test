@@ -32,6 +32,7 @@ class MyTestCase(unittest.TestCase):
         time.sleep(3)
         self.driver.quit()
 
+    @unittest.skip()
     def test_loginqq(self):
         print "************  login QQ user method ***********"
         #判断当前是否为 登录页
