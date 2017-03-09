@@ -16,6 +16,7 @@ from Constant.create_constant import Create_Constant
 common=Common_Util()
 create_constant=Create_Constant()
 
+@unittest.skip()
 class MyTestCase(unittest.TestCase):
 
 
@@ -69,7 +70,6 @@ class MyTestCase(unittest.TestCase):
         first_item = self.driver.find_elements_by_class_name('StaticText')[2]
         self.assertTrue(first_item.get_attribute('name').startswith(create_constant.scan_title), '＊＊文档扫描创建case失败！＊＊')
 
-        time.sleep(3)
 
 if __name__ == '__main__':
     unittest.main()

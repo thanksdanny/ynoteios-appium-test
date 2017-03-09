@@ -34,6 +34,8 @@ class MyTestCase(unittest.TestCase):
 
         #打开全部
         self.driver.find_element_by_name('全部').click()
+        time.sleep(2)
+
         #open notebook
         self.driver.find_element_by_name(editorconstant.notebook_title).click()
         #new

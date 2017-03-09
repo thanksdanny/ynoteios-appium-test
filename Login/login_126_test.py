@@ -19,6 +19,8 @@ from Constant.login_constant import LoginConstant
 common=Common_Util()
 loginconstant=LoginConstant()
 
+
+@unittest.skip()
 class MyTestCase(unittest.TestCase):
 
     def setUp(self):
@@ -31,7 +33,6 @@ class MyTestCase(unittest.TestCase):
         time.sleep(3)
         self.driver.quit()
 
-    @unittest.skip()
     def test_login126(self):
         print "************  login 126 user method ***********"
         #判断当前是否为 登录页

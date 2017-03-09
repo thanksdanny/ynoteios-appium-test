@@ -3,6 +3,7 @@
 
 
 import unittest
+import time
 
 from Common.common import Common_Util
 
@@ -29,9 +30,11 @@ class MyTestCase(unittest.TestCase):
         print "************  mine checkin method ***********"
         #wo de
         self.driver.find_element_by_name('tabbar_my').click()
-
+        time.sleep(2)
         #判断是否签过到
         if self.driver.find_elements_by_name('签到 签到获取更多空间'):
+
+            print '去签到！！！'
             #签到按扭在，没签过到
             self.driver.find_element_by_name('签到 签到获取更多空间').click
             # 检验 签到成功

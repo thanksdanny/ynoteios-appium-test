@@ -16,6 +16,9 @@ from Common.common import Common_Util
 
 
 common=Common_Util()
+
+
+@unittest.skip()
 class MyTestCase(unittest.TestCase):
 
     def setUp(self):

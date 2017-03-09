@@ -33,6 +33,8 @@ class MyTestCase(unittest.TestCase):
 
         #打开全部
         self.driver.find_element_by_name('全部').click()
+        time.sleep(2)
+
         #open notebook
         self.driver.find_element_by_name(editorconstant.notebook_title).click()
         #new
@@ -59,7 +61,7 @@ class MyTestCase(unittest.TestCase):
         self.driver.find_element_by_class_name('TextField').send_keys(editorconstant.rightalign[0])
         #back
         self.driver.find_element_by_name('返回').click()
-        time.sleep(2)
+        time.sleep(3)
         #检验 在列表上笔记创建成功
         self.assertTrue(self.driver.find_element_by_name(editorconstant.rightalign[0]).is_displayed(),'＊＊*右对齐笔记创建失败！＊＊＊')
 

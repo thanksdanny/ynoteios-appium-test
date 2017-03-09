@@ -31,8 +31,8 @@ class MyTestCase(unittest.TestCase):
     def tearDown(self):
         self.driver.quit()
 
-    def test_shareright_note_comment(self):
-        print "************  share right note comment method ***********"
+    def test_shareright_note_comment_edit(self):
+        print "************  share right note comment_edit method ***********"
 
         #全部
         self.driver.find_element_by_name('全部').click()
@@ -65,7 +65,7 @@ class MyTestCase(unittest.TestCase):
             self.driver.find_elements_by_class_name('Switch')[0].click()
         else:
             # 没有勾选过，只需要点1次
-            self.driver.find_elements_by_class_name('Switch')[1].click()
+            self.driver.find_elements_by_class_name('Switch')[0].click()
 
 
         #comment

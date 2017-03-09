@@ -55,12 +55,5 @@ class MyTestCase(unittest.TestCase):
         #check toast
 
 
-
-
-    def delattention(self):
-        pass
-
-
-
 if __name__ == '__main__':
     unittest.main()

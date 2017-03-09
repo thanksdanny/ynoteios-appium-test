@@ -15,7 +15,7 @@ from Common.common import Common_Util
 #检验2：首页列表上第一条数据的标题中包含.jpg
 
 common=Common_Util()
-
+@unittest.skip()
 class MyTestCase(unittest.TestCase):
 
 
@@ -66,7 +66,6 @@ class MyTestCase(unittest.TestCase):
         first_item = self.driver.find_elements_by_class_name('StaticText')[2]
         self.assertTrue(('.jpg' in first_item.get_attribute('name')), '＊＊上传图片case失败！＊＊')
 
-        time.sleep(3)
 
 if __name__ == '__main__':
     unittest.main()

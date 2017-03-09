@@ -59,8 +59,6 @@ class MyTestCase(unittest.TestCase):
         first_item = self.driver.find_elements_by_class_name('StaticText')[2]
         self.assertTrue(first_item.get_attribute('name').startswith(create_constant.chinese_article), '＊＊中文笔记创建case失败！＊＊')
 
-        time.sleep(3)
-
         # 检验数据库中状态，sqlite3
 
 

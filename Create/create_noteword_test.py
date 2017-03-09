@@ -56,13 +56,11 @@ class MyTestCase(unittest.TestCase):
         # back
         self.driver.find_element_by_name('返回').click()
 
-        time.sleep(10)
+        time.sleep(3)
 
         # 检验生成了一篇英文笔记在列表上
-        first_item = self.driver.find_elements_by_class_name('StaticText')[2]
+        first_item = self.driver.find_elements_by_class_name('StaticText')[3]
         self.assertTrue(first_item.get_attribute('name').startswith(create_constant.english_title), '＊＊英文笔记创建case失败！＊＊')
-
-        time.sleep(3)
         #检验数据库中状态，sqlite3
 
 

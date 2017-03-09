@@ -1,8 +1,14 @@
 import smtplib
 from email.mime.text import MIMEText
+import os
 
 #send resultreport to email
+
+file = os.path.abspath(os.curdir) + '/report.html'
+
 class SendEmail():
+
+
 
     def sendReportmail(self, file):
 
@@ -28,5 +34,13 @@ class SendEmail():
         s.login('ynotetest30@163.com','abc123')
 
         s.sendmail(msg['from'], msg['to'], msg.as_string())
-        s.close()
         print 'send email sucess!'
+
+if __name__ =='__main__':
+
+    OO=SendEmail()
+    OO.sendReportmail(file)
+
+
+
+

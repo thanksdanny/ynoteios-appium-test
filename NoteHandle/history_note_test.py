@@ -22,7 +22,7 @@ from Constant.noteHandle_constant import NoteHandle_constant
 
 common=Common_Util()
 notehandle_constant=NoteHandle_constant()
-
+@unittest.skip
 class MyTestCase(unittest.TestCase):
     def setUp(self):
         # set up appium

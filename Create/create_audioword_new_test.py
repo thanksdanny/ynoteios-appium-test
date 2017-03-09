@@ -36,17 +36,16 @@ class MyTestCase(unittest.TestCase):
         # 点新建
         self.driver.find_element_by_name('createNote asr').click()
 
-        self.driver.find_element_by_name('语音速记').click()
         time.sleep(3)
         # zhi zhang try
         if self.driver.find_elements_by_name('取消'):
             self.driver.find_element_by_name('取消').click()
         #pause
         self.driver.find_element_by_name('asr record btn').click()
-        #分段
-        self.driver.find_element_by_name('分段').click()
-        #停止
-        self.driver.find_element_by_name('停止').click()
+        #标记
+        self.driver.find_element_by_name('标记').click()
+        #完成
+        self.driver.find_element_by_name('完成').click()
         time.sleep(3)
         #检验标题变为 语音速记 了,表示停止录音了
         self.assertTrue(self.driver.find_element_by_name('语音速记').is_displayed())
@@ -56,8 +55,6 @@ class MyTestCase(unittest.TestCase):
         #检验生成了一篇语音速记在列表上
         first_item=self.driver.find_elements_by_class_name('StaticText')[2]
         self.assertTrue(first_item.get_attribute('name').startswith(unicode("语音速记")),'＊＊语音速记创建case失败！＊＊')
-
-        time.sleep(3)
 
 
 if __name__ == '__main__':

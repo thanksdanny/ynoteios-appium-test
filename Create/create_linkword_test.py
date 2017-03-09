@@ -51,11 +51,13 @@ class MyTestCase(unittest.TestCase):
         #link笔记
         self.driver.find_element_by_name('链接收藏').click()
         time.sleep(3)
+        self.driver.find_element_by_class_name('TextView').clear()
 
         #检验弹框存在
         self.assertTrue(self.driver.find_element_by_name('链接收藏').is_displayed(),'创建链接收藏的弹框没出现！')
 
         #输入url
+        self.driver.find_element_by_class_name('TextView').clear()
         self.driver.find_element_by_class_name('TextView').send_keys(create_constant.link_url)
 
         #点 确认
@@ -72,8 +74,6 @@ class MyTestCase(unittest.TestCase):
         # 检验生成了一篇笔记在列表上
         first_item = self.driver.find_elements_by_class_name('StaticText')[3]
         self.assertTrue(first_item.get_attribute('name').startswith(unicode("百度")), '＊＊链接收藏创建case失败！＊＊')
-
-        time.sleep(3)
 
 if __name__ == '__main__':
     unittest.main()

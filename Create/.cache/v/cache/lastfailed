@@ -1,9 +1,1 @@
-{
-  "create_linkword_test.py": true, 
-  "create_mdword_test.py": true, 
-  "create_notechineseword_test.py": true, 
-  "create_noteword_test.py": true, 
-  "create_scanword_test.py": true, 
-  "create_uploadpicword_test.py::MyTestCase::test_create_uploadpicword": true, 
-  "create_writeword_test.py": true
-}
+{}

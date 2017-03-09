@@ -89,7 +89,5 @@ class MyTestCase(unittest.TestCase):
         #检验列表上标题存在 *.md
         self.assertTrue(self.driver.find_element_by_name(create_constant.markdown_title+'.md').is_displayed())
 
-        time.sleep(3)
-
 if __name__ == '__main__':
     unittest.main()

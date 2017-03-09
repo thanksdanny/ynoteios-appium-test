@@ -20,6 +20,8 @@ from Constant.login_constant import LoginConstant
 common=Common_Util()
 loginconstant=LoginConstant()
 
+
+@unittest.skip()
 class MyTestCase(unittest.TestCase):
 
     def setUp(self):

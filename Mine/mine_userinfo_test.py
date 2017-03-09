@@ -15,6 +15,7 @@ from Common.common import Common_Util
 #检验1：昵称存在
 
 common=Common_Util()
+@unittest.skip
 class MyTestCase(unittest.TestCase):
     def setUp(self):
         # set up appium

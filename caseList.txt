@@ -1,4 +1,6 @@
- /Create
+
+ #一定要用英文符号
+ #/Create
  #/EditorTool
  #/Login
  #/Mine
