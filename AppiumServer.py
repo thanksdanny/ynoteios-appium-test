@@ -20,8 +20,6 @@ class AppiumServer():
     def getCmd(self,command):
         #create a cmd
         os.system(command)
-
-if __name__=='__main__':
-
-    o=AppiumServer()
-    o.startServer()
+if __name__=="__main__":
+    OO=AppiumServer()
+    OO.startServer()
