@@ -1,10 +1,11 @@
 import unittest
 import os
 import HTMLTestRunner
-import time
 from sendEmailreport import SendEmail
+from AppiumServer import appiumServer
 
 email=SendEmail()
+appiumserver=appiumServer()
 
 class runCase():
     # /Users/wujia/Documents/code/testing/ynoteios-appium-test
@@ -40,6 +41,8 @@ class runCase():
         htmlrunner.run(suite)
 
         print "running end !"
+        #close appiumserver
+        appiumserver.stopServer()
 
 
 

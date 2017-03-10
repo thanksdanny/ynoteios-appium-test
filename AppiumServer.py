@@ -1,7 +1,7 @@
 
 import os
 
-class AppiumServer():
+class appiumServer():
 
     def startServer(self):
         #start appium

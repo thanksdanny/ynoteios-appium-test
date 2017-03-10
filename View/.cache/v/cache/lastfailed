@@ -1,1 +1,3 @@
-{}
+{
+  "view_js_test.py::MyTestCase::test_view_js": true
+}

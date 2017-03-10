@@ -20,7 +20,7 @@ common=Common_Util()
 loginconstant=LoginConstant()
 
 
-@unittest.skip()
+#@unittest.skip()
 class MyTestCase(unittest.TestCase):
 
     def setUp(self):

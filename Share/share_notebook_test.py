@@ -22,6 +22,7 @@ from Constant.share_constant import ShareConstant
 common=Common_Util()
 share_constant=ShareConstant()
 
+@unittest.skip
 class MyTestCase(unittest.TestCase):
     def setUp(self):
         # set up appium

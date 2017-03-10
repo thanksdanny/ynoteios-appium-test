@@ -49,6 +49,7 @@ class MyTestCase(unittest.TestCase):
         common.exists(share_constant.newnote_title)
         #open note
         self.driver.find_element_by_name(share_constant.newnote_title).click()
+        time.sleep(2)
         #click share button
         self.driver.find_element_by_name('viewModButtonShare').click()
         #检验分享界面显示出来了

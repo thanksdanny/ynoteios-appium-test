@@ -6,6 +6,6 @@
  #/Mine
  #/NoteHandle
  #/Profile
- #/Share
+ /Share
  #/Share_rights
  #/View
