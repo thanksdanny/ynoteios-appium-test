@@ -2,108 +2,416 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0816d6e-2bce-47b1-8cef-540068a39447" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AllRun.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Login/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Login/testdemo_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Mine/.cache/v/cache/lastfailed" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Mine/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Profile/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Share/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/.cache/v/cache/lastfailed" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/View/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Login/.cache/v/cache/lastfailed" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Share/.cache/v/cache/lastfailed" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AllCaseRun.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/Create/.cache/v/cache/lastfailed" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_audioword_new_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_audioword_new_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_audioword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_audioword_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_linkword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_linkword_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_mdword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_mdword_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_notechineseword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_notechineseword_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_noteword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_noteword_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_scanword_notest.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_scanword_notest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_uploadpicword_notest.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_uploadpicword_notest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_voiceword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_voiceword_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_writeword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_writeword_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/word" afterPath="$PROJECT_DIR$/TestCase-note/Create/word" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/.cache/v/cache/lastfailed" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/bgcolor_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/bgcolor_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/bold_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/bold_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/color_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/color_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/italic_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/italic_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/leftIndent_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/leftIndent_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/leftalign_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/leftalign_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/rightIndent_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/rightIndent_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/rightalign_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/rightalign_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/sizeincrease_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/sizeincrease_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/sizeminus_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/sizeminus_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/sort_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/sort_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/strike_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/strike_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/textcenter_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/textcenter_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/underline_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/underline_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/unsort_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/unsort_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Login/login_126_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Login/login_126_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Login/login_163.py" afterPath="$PROJECT_DIR$/TestCase-note/Login/login_163.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Login/login_out_163.py" afterPath="$PROJECT_DIR$/TestCase-note/Login/login_out_163.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Login/login_qq.py" afterPath="$PROJECT_DIR$/TestCase-note/Login/login_qq.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Login/login_yeah_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Login/login_yeah_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/Login/.cache/v/cache/lastfailed" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_checkin_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_checkin_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_forfavorite_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_forfavorite_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_forgroupbusiness_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_forgroupbusiness_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_formessage_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_formessage_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_forshare_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_forshare_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_forstar_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_forstar_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_fortag_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_fortag_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_forusersatisfaction_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_forusersatisfaction_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_forusersurvey_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_forusersurvey_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_membercenter_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_membercenter_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_setting_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_setting_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_userinfo_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_userinfo_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/.cache/v/cache/lastfailed" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/attention_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/attention_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/decode_oldnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/decode_oldnote_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/encrypt_newnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/encrypt_newnote_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/history_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/history_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/move_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/move_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/readmodel_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/readmodel_note_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Profile/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/Profile/.cache/v/cache/lastfailed" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Profile/profile_area_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Profile/profile_area_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Profile/profile_nick_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Profile/profile_nick_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Profile/profile_resume_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Profile/profile_resume_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Profile/profile_sex_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Profile/profile_sex_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Profile/profile_vip_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Profile/profile_vip_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_exclnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_exclnote_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_newnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_newnote_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_notebook_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_notebook_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_oldnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_oldnote_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_othernote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_othernote_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_pdfnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_pdfnote_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_picnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_picnote_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_wordnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_wordnote_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share_rights/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/Share/.cache/v/cache/lastfailed" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share_rights/shareright_file_comment_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/shareright_file_comment_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share_rights/shareright_file_no_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/shareright_file_no_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share_rights/shareright_note_comment_edit_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/shareright_note_comment_edit_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share_rights/shareright_note_comment_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/shareright_note_comment_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Share_rights/shareright_note_no_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/shareright_note_no_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/View/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/View/.cache/v/cache/lastfailed" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_audio_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_audio_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_js_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_js_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_md_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_md_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_newnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_newnote_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_oldnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_oldnote_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_pic_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_pic_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_scan_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_scan_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_txt_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_txt_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_word_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_word_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/choose_run.py" afterPath="$PROJECT_DIR$/SingleRun.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AlbumPickerController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon29x29@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon29x29@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon29x29@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon29x29~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon40x40@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon40x40@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon40x40@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon40x40~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon60x60@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon60x60@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon76x76@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon76x76~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon83.5x83.5@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AssetPickerController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Assets.car" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AutoDetectNoticeView.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Default568h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Default@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/EditNote.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/EditNoteBookController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/FindPasswordViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/AFNetworking.framework/AFNetworking" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/AFNetworking.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/ActionSheetPicker_3_0.framework/ActionSheetPicker_3_0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/ActionSheetPicker_3_0.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/BlocksKit.framework/BlocksKit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/BlocksKit.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/FDFullscreenPopGesture.framework/FDFullscreenPopGesture" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/FDFullscreenPopGesture.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/FMDB.framework/FMDB" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/FMDB.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/MBProgressHUD.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/MBProgressHUD.framework/MBProgressHUD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/Masonry.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/Masonry.framework/Masonry" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/NullSafe.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/NullSafe.framework/NullSafe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/PomeloPush.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/PomeloPush.framework/PomeloPush" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/Reachability.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/Reachability.framework/Reachability" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SCLAlertView_Objective_C.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SCLAlertView_Objective_C.framework/SCLAlertView_Objective_C" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SDWebImage.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SDWebImage.framework/SDWebImage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SFHFKeychainUtils.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SFHFKeychainUtils.framework/SFHFKeychainUtils" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SVPullToRefresh.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SVPullToRefresh.framework/SVPullToRefresh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SwipeView.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SwipeView.framework/SwipeView" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/YYKeyboardManager.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/YYKeyboardManager.framework/YYKeyboardManager" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/YYModel.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/YYModel.framework/YYModel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/libwebp.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/libwebp.framework/libwebp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/GetImageView.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/HandWriteNoteController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/IPadHandWriteKeyboardController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Icon-60@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Icon-Small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Icon-Spotlight-40@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ImageBalancingView.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ImageConfirmView.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ImageRectificationView.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LaunchImage-700-568h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LaunchImage-700-Landscape@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LaunchImage-700-Landscape~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LaunchImage-700@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LaunchImage-800-667h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LaunchImage-800-Portrait-736h@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LoginController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/MainWindow.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/OfflineSettingNoteBookCell.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/OpenURLViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/Base.lproj/MainInterface.storyboardc/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/Base.lproj/MainInterface.storyboardc/UIViewController-j1y-V4-xli.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/Base.lproj/MainInterface.storyboardc/j1y-V4-xli-view-wbc-yd-nQP.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/ShareExtension" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/embedded.mobileprovision" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/Assets.car" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/MainInterface.storyboardc/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/MainInterface.storyboardc/M4Y-Lb-cyx-view-S3S-Oj-5AN.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/MainInterface.storyboardc/UIViewController-M4Y-Lb-cyx.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/TodayViewExtensionGeneral" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/embedded.mobileprovision" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ReadModeViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/RecordViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/SMSRegSucceedViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/TencentOpenApi_IOS_Bundle.bundle/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/TencentOpenApi_IOS_Bundle.bundle/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/TencentOpenApi_IOS_Bundle.bundle/qqicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/TencentOpenApi_IOS_Bundle.bundle/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ViewAttachFileController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ViewAttachImageController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/alert_error_icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/alert_success_icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/close@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_big_blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_big_blue_disable@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_big_blue_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_white@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_white_highlighted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_white_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_icon_arrow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/compose_keyboardbutton_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/compose_keyboardbutton_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/compose_toolbar_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/compose_toolbar_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/empty_failed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/empty_failed@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/login_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/login_country_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/login_country_background_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/navigationbar_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/navigationbar_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/navigationbar_background_os7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/navigationbar_background_os7@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/progresshud_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/sdk_weibo_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/sdk_weibo_logo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/sdk_weibo_logo@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/timeline_relationship_icon_addattention.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/timeline_relationship_icon_addattention@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/timeline_relationship_icon_addattention@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/timeline_relationship_icon_attention.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/timeline_relationship_icon_attention@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/timeline_relationship_icon_attention@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/verify_code_button@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/verify_code_button@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/verify_code_button_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/verify_code_button_highlighted@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/others/mfp.cer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDAdBrowserController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDCloseButtonX.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDCloseButtonX@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDCloseButtonX@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDMutedBtn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDMutedBtn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDMutedBtn@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDUnmutedBtn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDUnmutedBtn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDUnmutedBtn@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNDocScanViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNGalleryViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNScanPreviewCollectionViewCell.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNTabBarItemView.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNTabBarView.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNVideoAdAlertView.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteIpadTipViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteQRCodeViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteScanCollectionViewCell.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteScanConfirmViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteScanCropViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteScanImageViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteScanViewController.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteScanViewController~ipad.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/adhoc.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/audio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/big_play_btn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/big_play_btn@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/blank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/city.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/close_btn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/close_btn@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/drag_cycle@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/drag_cycle@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/embedded.mobileprovision" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/exit_full_screen_btn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/exit_full_screen_btn@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/fonts.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/full_screen_btn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/full_screen_btn@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iPadSetBrushView.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iPadUpdateTipsView.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ipadPage.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iphone6@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iphone6plus@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_AMS-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Caligraphic-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Caligraphic-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Fraktur-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Fraktur-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Main-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Main-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Main-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Math-BoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Math-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Math-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_SansSerif-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_SansSerif-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_SansSerif-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Script-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Size1-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Size2-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Size3-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Size4-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Typewriter-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/ionicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/more_detail@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/more_detail@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/neteaseApp.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/other.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/pdf64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/picture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/powerpoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/rar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/recommendApp.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/small_pause_btn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/small_pause_btn@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/small_play_btn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/small_play_btn@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/swf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonAlbum@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonAlbum@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonCamera@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonCamera@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonHandwrite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonHandwrite@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonHideKeyboard@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonHideKeyboard@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonRecord@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonRecord@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonScan@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonScan@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/ViewMod/move@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/ViewMod/move@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/ViewMod/noteBookSelected@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/ViewMod/noteBookSelected@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/Group/GroupMyGroup/newMessage@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/Group/GroupMyGroup/newMessage@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/Group/GroupMyGroup/silent@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/Group/GroupMyGroup/silent@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/Search@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/Search@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellAttachIcon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellAttachIcon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellFavoriteIcon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellFavoriteIcon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellMenuDelete@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellMenuDelete@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellMenuFavorite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellMenuFavorite@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/createGroupButtonIcon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/createGroupButtonIcon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/icon_sort@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/icon_sort@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/moreButtonIcon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/moreButtonIcon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/more_option@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/more_option@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-more-pressed@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-more-pressed@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-more@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-more@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-normal@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-normal@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-pressed@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-pressed@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/point@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/point@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_group@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_group@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_group_selected@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_group_selected@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_my@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_my@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_my_selected@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_my_selected@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_settings@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_settings@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_settings_selected@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_settings_selected@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_ydoc@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_ydoc@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_ydoc_selected@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_ydoc_selected@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotebook/foldNotebook@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotebook/foldNotebook@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotebook/unfoldNotebookGroup@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotebook/unfoldNotebookGroup@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotes/pullToSyncArrow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotes/pullToSyncArrow@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotes/stick@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotes/stick@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotes/unSync@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotes/unSync@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/Preference/MyInfo_bg@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/Preference/MyInfo_bg@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/UIImages/chooseDirPathHint@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/UIImages/chooseDirPathHint@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/attachCellBackground@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/attachCellBackground@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/background@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/bottomPaper@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/bottomPaper@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/imageCellBackground@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/imageCellBackground@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/navigation@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/navigation@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/themeIcon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/themeIcon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/default/themeIcon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/default/themeIcon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/有道云笔记" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/AFNetworking.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/ActionSheetPicker_3_0.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/BlocksKit.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/FDFullscreenPopGesture.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/FMDB.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/Masonry.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/NullSafe.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/PomeloPush.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/Reachability.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SCLAlertView_Objective_C.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SDWebImage.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SFHFKeychainUtils.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SVPullToRefresh.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SwipeView.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/YYKeyboardManager.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/YYModel.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/libwebp.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/css/default.min-dc5852d0bc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/css/highlight-preview.min-1f4eb4a384.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/scripts/highlight.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/scripts/index-851a5ce18a.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/scripts/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PkgInfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/TencentOpenApi_IOS_Bundle.bundle/local.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/UnRAR.vcproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/UnRARDll.vcproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/others/countryList" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/acknow.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/bulb-version.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/bulb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/bulb_main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/bulb_main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/bulb_vendors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/defaultNote.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/dict_parser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/diff.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/diff.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editorApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editordiff.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/groupSearch/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/htmldiff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ios_io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ios_ioTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iphone-editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iphone-readMod.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iphone-readMod.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iphone-readMod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/markdown-mobile-4fa96b95e5.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/markdown-mobile-0bfd44dad9.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/markdown-mobile-1c4b867427.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/msc.dep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/personalTable/mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/personalTable/vendor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/personalTable/ynoteIndex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/personalTable/ynoteTable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/readMod-vendor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/reader-iphone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/reader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/sample.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/vendor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/xml_convertor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/xml_convertor.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sendEmailreport.py" afterPath="$PROJECT_DIR$/sendEmailreport.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AllRun.py" afterPath="$PROJECT_DIR$/AllRun.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppiumServer.py" afterPath="$PROJECT_DIR$/AppiumServer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/common.py" afterPath="$PROJECT_DIR$/Common/common.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SingleRun.py" afterPath="$PROJECT_DIR$/SingleRun.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCase-note/Mine/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/Mine/.cache/v/cache/lastfailed" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCase-note/Mine/mine_checkin_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_checkin_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCase-note/View/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/View/.cache/v/cache/lastfailed" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caseList.txt" afterPath="$PROJECT_DIR$/caseList.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/report.html" afterPath="$PROJECT_DIR$/report.html" />
     </list>
     <ignored path="ynoteios-appium-test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -124,26 +432,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AllRun.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AllRun.py">
+      <file leaf-file-name="caseList.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/caseList.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingleRun.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SingleRun.py">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,9 +467,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Create/create_notechineseword_test.py" />
-        <option value="$PROJECT_DIR$/Create/create_scanword_notest.py" />
-        <option value="$PROJECT_DIR$/Create/create_uploadpicword_notest.py" />
         <option value="$PROJECT_DIR$/Create/create_noteword_test.py" />
         <option value="$PROJECT_DIR$/Login/login_163.py" />
         <option value="$PROJECT_DIR$/Mine/mine_checkin_test.py" />
@@ -173,7 +474,6 @@
         <option value="$PROJECT_DIR$/NoteHandle/attention_note_test.py" />
         <option value="$PROJECT_DIR$/NoteHandle/history_note_test.py" />
         <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Mine/mine_userinfo_test.py" />
         <option value="$PROJECT_DIR$/EditorTool/bgcolor_note_test.py" />
         <option value="$PROJECT_DIR$/EditorTool/bold_note_test.py" />
@@ -190,8 +490,6 @@
         <option value="$PROJECT_DIR$/EditorTool/underline_note_test.py" />
         <option value="$PROJECT_DIR$/EditorTool/unsort_note_test.py" />
         <option value="$PROJECT_DIR$/EditorTool/rightalign_note_test.py" />
-        <option value="$PROJECT_DIR$/caseList.txt" />
-        <option value="$PROJECT_DIR$/AppiumServer.py" />
         <option value="$PROJECT_DIR$/Login/login_126_test.py" />
         <option value="$PROJECT_DIR$/Share/share_exclnote_test.py" />
         <option value="$PROJECT_DIR$/Share/share_newnote_test.py" />
@@ -213,14 +511,20 @@
         <option value="$PROJECT_DIR$/TestCase/Mine/mine_forgroupbusiness_test.py" />
         <option value="$PROJECT_DIR$/TestCase/Mine/mine_forusersurvey_test.py" />
         <option value="$PROJECT_DIR$/TestCase/NoteHandle/attention_note_test.py" />
+        <option value="$PROJECT_DIR$/AppiumServer.py" />
+        <option value="$PROJECT_DIR$/caseList.txt" />
+        <option value="$PROJECT_DIR$/Common/common.py" />
         <option value="$PROJECT_DIR$/SingleRun.py" />
+        <option value="$PROJECT_DIR$/TestCase-note/Mine/mine_checkin_test.py" />
+        <option value="$PROJECT_DIR$/AllRun.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1366" />
-    <option name="height" value="678" />
+    <option name="height" value="677" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -247,8 +551,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -282,8 +586,8 @@
       <recent name="$PROJECT_DIR$/Profile" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in MyTestCase and test_mine_forusersurvey">
-    <configuration default="false" name="py.test in MyTestCase and test_color_note" type="tests" factoryName="py.test" temporary="true">
+  <component name="RunManager" selected="Python.SingleRun">
+    <configuration default="false" name="py.test in create_audioword_new_test.py" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -300,14 +604,14 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/TestCase/EditorTool/color_note_test.py" />
-      <option name="keywords" value="MyTestCase and test_color_note" />
+      <option name="testToRun" value="$PROJECT_DIR$/TestCase-note/Create/create_audioword_new_test.py" />
+      <option name="keywords" value="" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="true" />
+      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="py.test in MyTestCase and test_rightalign_note" type="tests" factoryName="py.test" temporary="true">
+    <configuration default="false" name="py.test in view_word_test.py" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -324,62 +628,48 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/TestCase/EditorTool/rightalign_note_test.py" />
-      <option name="keywords" value="MyTestCase and test_rightalign_note" />
+      <option name="testToRun" value="$PROJECT_DIR$/TestCase-note/View/view_word_test.py" />
+      <option name="keywords" value="" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="true" />
+      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="py.test in MyTestCase and test_mine_checkin" type="tests" factoryName="py.test" temporary="true">
+    <configuration default="false" name="SingleRun" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ynoteios-appium-test" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/TestCase/Mine/mine_checkin_test.py" />
-      <option name="keywords" value="MyTestCase and test_mine_checkin" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingleRun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="py.test in MyTestCase and test_mine_forgroupbusiness" type="tests" factoryName="py.test" temporary="true">
+    <configuration default="false" name="AppiumServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ynoteios-appium-test" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/TestCase/Mine/mine_forgroupbusiness_test.py" />
-      <option name="keywords" value="MyTestCase and test_mine_forgroupbusiness" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppiumServer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="py.test in MyTestCase and test_mine_forusersurvey" type="tests" factoryName="py.test" temporary="true">
+    <configuration default="false" name="py.test in view_audio_test.py" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -396,11 +686,11 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/TestCase/Mine/mine_forusersurvey_test.py" />
-      <option name="keywords" value="MyTestCase and test_mine_forusersurvey" />
+      <option name="testToRun" value="$PROJECT_DIR$/TestCase-note/View/view_audio_test.py" />
+      <option name="keywords" value="" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="true" />
+      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -538,19 +828,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_color_note" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_rightalign_note" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_mine_checkin" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_mine_forgroupbusiness" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_mine_forusersurvey" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in create_audioword_new_test.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in view_word_test.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SingleRun" />
+      <item index="3" class="java.lang.String" itemvalue="Python.AppiumServer" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in view_audio_test.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_mine_forusersurvey" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_mine_forgroupbusiness" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_mine_checkin" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_rightalign_note" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_color_note" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SingleRun" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in view_audio_test.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.AppiumServer" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in view_word_test.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in create_audioword_new_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -600,22 +890,17 @@
       <option name="project" value="LOCAL" />
       <updated>1489140543158</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add allRUN.py  &#10;">
+      <created>1489382146625</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1489382146625</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_MyTestCase_and_test_mine_checkin - 2017.03.13 at 12h 59m 19s.xml">
-      <configuration name="py.test in MyTestCase and test_mine_checkin" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_MyTestCase_and_test_mine_checkin - 2017.03.13 at 13h 00m 51s.xml">
-      <configuration name="py.test in MyTestCase and test_mine_checkin" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_MyTestCase_and_test_mine_forgroupbusiness - 2017.03.13 at 13h 04m 32s.xml">
-      <configuration name="py.test in MyTestCase and test_mine_forgroupbusiness" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_MyTestCase_and_test_mine_forusersurvey - 2017.03.13 at 13h 05m 15s.xml">
-      <configuration name="py.test in MyTestCase and test_mine_forusersurvey" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_MyTestCase_and_test_mine_forusersurvey - 2017.03.13 at 13h 05m 56s.xml">
       <configuration name="py.test in MyTestCase and test_mine_forusersurvey" configurationId="tests" />
     </history-entry>
@@ -631,21 +916,32 @@
     <history-entry file="py_test_in_MyTestCase_and_test_mine_forusersurvey - 2017.03.13 at 13h 11m 00s.xml">
       <configuration name="py.test in MyTestCase and test_mine_forusersurvey" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_MyTestCase_and_test_rightalign_note - 2017.03.13 at 12h 57m 47s.xml">
-      <configuration name="py.test in MyTestCase and test_rightalign_note" configurationId="tests" />
+    <history-entry file="py_test_in_create_audioword_new_test_py - 2017.03.13 at 14h 11m 52s.xml">
+      <configuration name="py.test in create_audioword_new_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_mine_forfavorite_test_py - 2017.03.13 at 14h 04m 29s.xml">
+      <configuration name="py.test in mine_forfavorite_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_view_audio_test_py - 2017.03.13 at 14h 24m 14s.xml">
+      <configuration name="py.test in view_audio_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_view_audio_test_py - 2017.03.13 at 14h 26m 01s.xml">
+      <configuration name="py.test in view_audio_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_view_word_test_py - 2017.03.13 at 14h 20m 27s.xml">
+      <configuration name="py.test in view_word_test.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1366" height="678" extended-state="0" />
+    <frame x="0" y="23" width="1366" height="677" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16431227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33788395" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33846155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -655,6 +951,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -685,7 +982,8 @@
     <MESSAGE value="add sendmail report .." />
     <MESSAGE value="readme" />
     <MESSAGE value="edit case&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit case&#10;" />
+    <MESSAGE value="add allRUN.py  &#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add allRUN.py  &#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -711,27 +1009,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TestCase-note/Share_rights/shareright_note_no_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-765">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestCase-note/Share_rights/shareright_note_comment_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestCase-note/Share_rights/shareright_note_comment_edit_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="671">
           <caret line="67" column="72" selection-start-line="67" selection-start-column="72" selection-end-line="67" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,7 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,7 +1027,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,7 +1034,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,7 +1041,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -771,7 +1048,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -779,7 +1055,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +1062,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="35" column="16" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,7 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,7 +1076,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,7 +1083,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -819,7 +1090,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -827,7 +1097,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -835,7 +1104,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -843,7 +1111,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -851,7 +1118,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -859,7 +1125,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -867,7 +1132,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -875,31 +1139,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AppiumServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/caseList.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="10" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -907,7 +1146,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -915,7 +1153,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -923,7 +1160,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -931,7 +1167,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -939,7 +1174,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -947,7 +1181,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,7 +1188,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,7 +1195,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-585">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,7 +1202,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -979,7 +1209,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="41">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -987,7 +1216,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,7 +1223,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1003,19 +1230,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="15" />
-          <folding>
-            <element signature="e#48#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestCase-note/Login/testdemo_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="e#48#59#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1023,7 +1237,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="144" column="38" selection-start-line="144" selection-start-column="38" selection-end-line="144" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,7 +1244,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,7 +1259,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,7 +1266,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1067,29 +1277,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCase-note/Mine/mine_checkin_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="e#50#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestCase-note/Mine/mine_forgroupbusiness_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Common/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1365">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1097,7 +1288,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1105,27 +1295,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Login/testdemo_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/View/view_word_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AllRun.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/View/view_audio_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state relative-caret-position="165">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#1135#1511#0" expanded="false" />
+            <element signature="e#1549#1806#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppiumServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Mine/mine_checkin_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="e#50#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SingleRun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        <state relative-caret-position="74">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllRun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caseList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>

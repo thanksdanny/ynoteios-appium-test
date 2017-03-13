@@ -1,0 +1,99 @@
+/* 
+ reader_ipad.css
+ YNote
+ 
+ Created by TangQiao on 11-10-28.
+ Copyright (c) 2011 Youdao. All rights reserved.
+ */
+p span {
+    word-wrap:break-word;
+    /*width: 320px;*/
+}
+body{
+    word-wrap:break-word;
+    width: 310px;
+}
+/* 用于显示附件的圆角边框 */
+.rborder {
+    display: block;
+    width: 295px;
+    border: 2px dashed #cccccc;
+    padding: 2px;
+    margin-top: 5px;
+    list-style-type: none;
+    -webkit-border-radius:5px 5px;
+}
+
+.rborder_loading {
+    display: block;
+    width: 295px;
+    border: 2px dashed #cccccc;
+    padding: 2px;
+    margin-top: 5px;
+    list-style-type: none;
+    -webkit-border-radius:5px 5px;
+}
+
+.rborder_done {
+    display: block;
+    width: 295px;
+    border: 2px solid #cccccc;
+    padding: 2px;
+    margin-top: 5px;
+    list-style-type: none;
+    -webkit-border-radius:5px 5px;
+}
+
+.rborder .att_bg {
+    background-image:url("att_normal.png");
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
+}
+
+.rborder_loading .att_bg {
+    background-image:url("att_loading.png");
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
+}
+
+.rborder_done .att_bg {
+    background-image:url("att_done.png");
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
+}
+
+.loadingPic {
+    width: 32px;
+    height: 32px;
+}
+
+.rborder .loadingPic {
+    display: none;
+}
+
+.rborder_loading .loadingPic {
+    display: block;
+    padding-left: 9px;
+    padding-top: 8px;
+}
+
+.rborder_done .loadingPic {
+    display: none;
+}
+
+.attachicon {
+    vertical-align:middle;
+    width: 32px;
+    height: 32px;
+}
+
+.ynote-reader-title{
+    width:200px;
+    text-overflow: ellipsis;
+    overflow:hidden;
+    white-space: nowrap;
+}
+

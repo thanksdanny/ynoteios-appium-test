@@ -4,6 +4,12 @@ import HTMLTestRunner
 from sendEmailreport import SendEmail
 from AppiumServer import appiumServer
 
+#根据需要，运行所有的用例
+#用例集目录在  项目》TestCase-note
+#遍历下面所有用例，并执行
+
+
+
 email=SendEmail()
 appiumserver=appiumServer()
 
@@ -12,6 +18,7 @@ class runCase():
     # /Users/wujia/Documents/code/testing/ynoteios-appium-test
 
     cur_dir = os.path.abspath(os.curdir)
+    print cur_dir
     #collect all case
     suite= unittest.defaultTestLoader.discover(cur_dir+'/TestCase-note', pattern='*_test.py')
 
@@ -25,6 +32,8 @@ class runCase():
     htmlrunner.run(suite)
 
     print "running allcase end !"
+
+    appiumServer.stopServer()
 
 
 

@@ -1,0 +1,36 @@
+ins {
+     background-color: #cfc;
+     text-decoration: none;
+}
+del {
+     color: #999;
+     background-color: #FEC8C8;
+}
+.remind-content,.remind-content .remind-watch,.remind-content .remind-text{
+    display:inline-block;
+}
+.remind-content{
+    height:20px;
+}
+.remind-check{
+    vertical-align:3px;
+}
+.remind-content .remind-watch{
+    display:inline-block;
+    width:18px;
+    height:18px;
+    background:url('../images/css_spirit.png');
+    background-position:-19px 0px;
+}
+.remind-content .reminded{
+    background-position:-38px 0px;
+}
+.remind-content .remind-text{
+    max-width:240px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    font-size:18px;
+    vertical-align:4px;
+}
+body{word-wrap:break-word;}

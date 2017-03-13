@@ -1,0 +1,176 @@
+.mm {
+  font-family: Arial;
+  font-size: 11pt;
+  margin: 4px;
+  min-height: 140px;
+  position: relative;
+}
+.mm p {
+  margin: 0;
+  padding: 0;
+  border: 0 none;
+  line-height: 1.25;
+}
+.mm a {
+  white-space: pre-wrap;
+  line-height: 1.25;
+  word-wrap:break-word;
+  width: 320px;
+  /*
+  height: 17px;
+  line-height: 17px;*/
+}
+.mm ol, ul {
+  display: inline-block;
+  line-height: 1.25;
+  margin: 0 0 0 25px;
+  padding: 0;
+}
+.mm img, li, tr {
+  margin: 0;
+  padding: 0;
+}
+
+.ta {
+  background: none repeat scroll 0 0 transparent;
+  position: absolute;
+  border: 0 none;
+  margin: 0 0 -3px -7px;
+  padding: 0 0 0 1px;
+  outline: 0 solid black;
+  overflow: hidden;
+  z-index: 100;
+  font-family: Arial;
+  font-size: 11pt;
+  line-height: 1.25;
+}
+.tt {
+  background: none repeat scroll 0 0 transparent;
+  position: absolute;
+  z-index: 200;
+  cursor: text;
+}
+.bd, .bdt {
+  height: 2px;
+  width: 2px;
+  position: absolute;
+  z-index: 200;
+}
+.bd {
+  background: none repeat scroll 0 0 #B0C5E7;
+}
+.bdt {
+  background: none repeat scroll 0 0 transparent;
+}
+p span {
+word-wrap:break-word;
+/*width: 320px;*/
+}
+body{
+word-wrap:break-word;
+width: 310px;
+}
+/* 用于显示附件的圆角边框 */
+.rborder {
+    display: block;
+    width: 295px;
+    border: 1px solid #cccccc;
+    padding: 2px;
+    margin-top: 1px;
+    list-style-type: none;
+    -webkit-border-radius:5px 5px;
+}
+
+.rborder .arrow {
+    width: 10px;
+    height: 15px;
+}
+
+.rborder .attachicon {
+    vertical-align:middle;
+    width: 32px;
+    height: 32px;
+}
+
+.rborder {
+    display: block;
+    width: 295px;
+    border: 2px dashed #cccccc;
+    padding: 2px;
+    margin-top: 5px;
+    list-style-type: none;
+    -webkit-border-radius:5px 5px;
+}
+
+.rborder_loading {
+    display: block;
+    width: 295px;
+    border: 2px dashed #cccccc;
+    padding: 2px;
+    margin-top: 5px;
+    list-style-type: none;
+    -webkit-border-radius:5px 5px;
+}
+
+.rborder_done {
+    display: block;
+    width: 295px;
+    border: 2px solid #cccccc;
+    padding: 2px;
+    margin-top: 5px;
+    list-style-type: none;
+    -webkit-border-radius:5px 5px;
+}
+
+
+.rborder .att_bg {
+    background-image:url("att_normal.png");
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
+}
+
+.rborder_loading .att_bg {
+    background-image:url("att_loading.png");
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
+}
+
+.rborder_done .att_bg {
+    background-image:url("att_done.png");
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
+}
+
+.loadingPic {
+    width: 32px;
+    height: 32px;
+}
+
+.rborder .loadingPic {
+    display: none;
+}
+
+.rborder_loading .loadingPic {
+    display: block;
+    padding-left: 9px;
+    padding-top: 8px;
+}
+
+.rborder_done .loadingPic {
+    display: none;
+}
+
+.attachicon {
+    vertical-align:middle;
+    width: 32px;
+    height: 32px;
+}
+.ynote-reader-title{
+    width:200px;
+    text-overflow: ellipsis;
+    overflow:hidden;
+    white-space: nowrap;
+}

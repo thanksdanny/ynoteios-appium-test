@@ -1,0 +1,108 @@
+body {
+  margin: 0 auto;
+  font-size: 12px;
+  font-family: "Helvetica Neue", Helvetica, STHeiTi, sans-serif;
+}
+#main {
+  margin: 0 auto;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+#viewer-area {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+#viewer-area .table-wrapper {
+  position: absolute;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+#viewer-area .table-wrapper .tab-container {
+  width: 100%;
+  height: 51px;
+  /* Style the links inside the list items */
+  /* Create an active/current tablink class */
+}
+#viewer-area .table-wrapper .tab-container ul.tab {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+  height: inherit;
+}
+#viewer-area .table-wrapper .tab-container ul.tab li {
+  display: inline-block;
+  border-right: 1px solid #ccc;
+  height: inherit;
+}
+#viewer-area .table-wrapper .tab-container ul.tab li:last-child {
+  border-right: 0px;
+}
+#viewer-area .table-wrapper .tab-container ul.tab li p {
+  display: table-cell;
+  color: black;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 17px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 200px;
+  min-width: 200px;
+  height: inherit;
+}
+#viewer-area .table-wrapper .tab-container ul.tab li p.tablinks.active {
+  background-color: #ccc;
+}
+#viewer-area .table-wrapper .sheet-container {
+  position: relative;
+  display: block;
+  width: 100%;
+  overflow: hidden;
+}
+#viewer-area .table-wrapper .sheet-container .sheet {
+  position: relative;
+  display: none;
+  transform: scale(1);
+  transform-origin: 0 0 0;
+  left: 0px;
+  top: 0px;
+}
+#viewer-area .table-wrapper .sheet-container .sheet table {
+  table-layout: fixed;
+  width: 100%;
+}
+#viewer-area .table-wrapper .sheet-container .sheet th,
+#viewer-area .table-wrapper .sheet-container .sheet td {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e6edf7 #e0e1e5 #e0e1e5 #e6edf7;
+  overflow: hidden;
+}
+#viewer-area table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 0;
+}
+#viewer-area table tr {
+  height: 23px;
+}
+#viewer-area table col {
+  width: 70px;
+}
+#viewer-area table td {
+  border: 1px solid #d4d4d4;
+  overflow: hidden;
+  /* default styles */
+  font-size: 12px;
+  vertical-align: middle;
+  word-wrap: break-word;
+  background: white;
+  font-family: Microsoft YaHei;
+}

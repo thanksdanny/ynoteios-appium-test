@@ -20,9 +20,8 @@ class Common_Util():
 
     def setup_app(self,login=1):
 
-        app = os.path.abspath(
-            '/Users/wujia/Library/Developer/Xcode/DerivedData/YNote-ewvbkrazcxnhicayktmrgqqwzltv/Build/'
-            'Products/Debug-iphonesimulator/有道云笔记.app')
+        app = '/Users/wujia/Library/Developer/Xcode/DerivedData/YNote-ewvbkrazcxnhicayktmrgqqwzltv/' \
+              'Build/Products/Debug-iphonesimulator/有道云笔记.app'
         self.driver = webdriver.Remote(
             command_executor='http://127.0.0.1:4723/wd/hub',
             desired_capabilities={
@@ -35,6 +34,7 @@ class Common_Util():
             })
         #self.intro_take(N)
         self.comment_take()
+        time.sleep(5)
         self.login_take(login)
         time.sleep(3)
         return self.driver

@@ -18,6 +18,8 @@ from Common.common import Common_Util
 #检验2：签到 页面标题为 会员
 
 common=Common_Util()
+
+@unittest.skip('')
 class MyTestCase(unittest.TestCase):
     def setUp(self):
         # set up appium

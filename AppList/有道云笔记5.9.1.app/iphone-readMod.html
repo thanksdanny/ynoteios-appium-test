@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+        <meta name="format-detection" content="telephone=no">
+        <title>阅读器</title>
+        <script type="text/javascript">
+            window.DEBUG = false;
+        </script>
+        <link rel="stylesheet" href="./iphone-readMod.css" />
+    </head>
+    <body>
+        <article id="reader" class='reader theme_1'>
+        </article>
+        <script type='text/template' id="attachmentTemplate">
+            <div class="att_container att_init" id="<%= att_index %>" filelength='<%= file_length %>' filename='<%= file_name %>' path="<%= path %>" data-orig-src="<%= origSrc %>">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td style='width:60px;' rowspan='2'>
+                                <img class='att_icon' src='<%= icon_src %>' title="<%= file_name %>" />
+                            </td>
+                            <td style='width:195px;' colspan='2'>
+                                <div class='att_title'><%= file_name %></div>
+                            </td>
+                            <td style='width:40px;' rowspan="2">
+                                <div class='att_bg'>
+                                    <img  src='loading.gif' />
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="50px">
+                                <div class="att_size"><%= file_size %></div>
+                            </td>
+                            <td>
+                                <div class="att_progress"></div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </script>
+        <script type='text/template' id="todoBoneTemplate">
+            <div class="ynote-todo-container">
+                <% for (var i=0;i<todoIDs.length;i++) {%>
+                    <div class="ynote-todo-item" data-todo-id="<%= todoIDs[i] %>"></div>
+                <% } %>
+            </div>
+        </script>
+        <script type='text/template' id="todoItemInnerTemplate">
+            <div class="ynote-todo-check"></div>
+            <div class="ynote-todo-info">
+                <div class="ynote-todo-title"><%= content %></div>
+                <% if (startTime) { %>
+                    <div class="ynote-todo-time"><%= startTime %></div>
+                <% } %>
+            </div>
+        </script>
+        <script src="./readMod-vendor.js" type="text/javascript"></script>
+        <script src="./iphone-readMod.js" data-main="init/iphone" type="text/javascript"></script>
+    </body>
+</html>

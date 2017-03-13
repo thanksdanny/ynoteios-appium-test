@@ -21,5 +21,5 @@ class appiumServer():
         #create a cmd
         os.system(command)
 if __name__=="__main__":
-    OO=AppiumServer()
+    OO=appiumServer()
     OO.startServer()
