@@ -51,5 +51,7 @@ ynoteios-appium-test
 
      sendEmailreport.py －－－－－－－－－－－－－－－－结果发送邮件
 
+     README.md－－－－－－－－－－－－－－－－－－－－－－说明文案
+
 
 

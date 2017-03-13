@@ -1,9 +1,9 @@
 
  #一定要用英文符号
- #/Create
+ /Create
  #/EditorTool
  #/Login
- /Mine
+ #/Mine
  #/NoteHandle
  #/Profile
  #/Share

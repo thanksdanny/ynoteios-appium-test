@@ -2,416 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0816d6e-2bce-47b1-8cef-540068a39447" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AlbumPickerController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon29x29@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon29x29@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon29x29@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon29x29~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon40x40@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon40x40@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon40x40@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon40x40~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon60x60@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon60x60@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon76x76@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon76x76~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AppIcon83.5x83.5@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AssetPickerController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Assets.car" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/AutoDetectNoticeView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Default568h@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Default@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/EditNote.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/EditNoteBookController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/FindPasswordViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/AFNetworking.framework/AFNetworking" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/AFNetworking.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/ActionSheetPicker_3_0.framework/ActionSheetPicker_3_0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/ActionSheetPicker_3_0.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/BlocksKit.framework/BlocksKit" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/BlocksKit.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/FDFullscreenPopGesture.framework/FDFullscreenPopGesture" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/FDFullscreenPopGesture.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/FMDB.framework/FMDB" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/FMDB.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/MBProgressHUD.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/MBProgressHUD.framework/MBProgressHUD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/Masonry.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/Masonry.framework/Masonry" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/NullSafe.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/NullSafe.framework/NullSafe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/PomeloPush.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/PomeloPush.framework/PomeloPush" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/Reachability.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/Reachability.framework/Reachability" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SCLAlertView_Objective_C.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SCLAlertView_Objective_C.framework/SCLAlertView_Objective_C" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SDWebImage.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SDWebImage.framework/SDWebImage" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SFHFKeychainUtils.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SFHFKeychainUtils.framework/SFHFKeychainUtils" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SVPullToRefresh.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SVPullToRefresh.framework/SVPullToRefresh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SwipeView.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SwipeView.framework/SwipeView" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/YYKeyboardManager.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/YYKeyboardManager.framework/YYKeyboardManager" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/YYModel.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/YYModel.framework/YYModel" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/libwebp.framework/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/libwebp.framework/libwebp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/GetImageView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/HandWriteNoteController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/IPadHandWriteKeyboardController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Icon-60@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Icon-Small@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Icon-Spotlight-40@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ImageBalancingView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ImageConfirmView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ImageRectificationView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LaunchImage-700-568h@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LaunchImage-700-Landscape@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LaunchImage-700-Landscape~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LaunchImage-700@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LaunchImage-800-667h@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LaunchImage-800-Portrait-736h@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Localizable.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/LoginController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/MainWindow.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/OfflineSettingNoteBookCell.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/OpenURLViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/Base.lproj/MainInterface.storyboardc/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/Base.lproj/MainInterface.storyboardc/UIViewController-j1y-V4-xli.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/Base.lproj/MainInterface.storyboardc/j1y-V4-xli-view-wbc-yd-nQP.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/ShareExtension" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/embedded.mobileprovision" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/Assets.car" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/MainInterface.storyboardc/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/MainInterface.storyboardc/M4Y-Lb-cyx-view-S3S-Oj-5AN.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/MainInterface.storyboardc/UIViewController-M4Y-Lb-cyx.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/TodayViewExtensionGeneral" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/embedded.mobileprovision" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ReadModeViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/RecordViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/SMSRegSucceedViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/TencentOpenApi_IOS_Bundle.bundle/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/TencentOpenApi_IOS_Bundle.bundle/error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/TencentOpenApi_IOS_Bundle.bundle/qqicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/TencentOpenApi_IOS_Bundle.bundle/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ViewAttachFileController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ViewAttachImageController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/alert_error_icon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/alert_success_icon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/close@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_big_blue@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_big_blue_disable@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_big_blue_highlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_white@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_white_highlighted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_button_white_highlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/common_icon_arrow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/compose_keyboardbutton_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/compose_keyboardbutton_background@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/compose_toolbar_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/compose_toolbar_background@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/empty_failed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/empty_failed@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/login_background@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/login_country_background@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/login_country_background_highlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/navigationbar_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/navigationbar_background@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/navigationbar_background_os7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/navigationbar_background_os7@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/progresshud_background@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/sdk_weibo_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/sdk_weibo_logo@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/sdk_weibo_logo@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/timeline_relationship_icon_addattention.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/timeline_relationship_icon_addattention@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/timeline_relationship_icon_addattention@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/timeline_relationship_icon_attention.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/timeline_relationship_icon_attention@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/timeline_relationship_icon_attention@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/verify_code_button@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/verify_code_button@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/verify_code_button_highlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/images/verify_code_button_highlighted@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/others/mfp.cer" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDAdBrowserController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDCloseButtonX.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDCloseButtonX@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDCloseButtonX@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDMutedBtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDMutedBtn@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDMutedBtn@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDUnmutedBtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDUnmutedBtn@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YDUnmutedBtn@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNDocScanViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNGalleryViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNScanPreviewCollectionViewCell.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNTabBarItemView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNTabBarView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNVideoAdAlertView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteIpadTipViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteQRCodeViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteScanCollectionViewCell.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteScanConfirmViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteScanCropViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteScanImageViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteScanViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/YNoteScanViewController~ipad.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/adhoc.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/audio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/big_play_btn@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/big_play_btn@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/blank.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/city.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/close_btn@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/close_btn@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/drag_cycle@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/drag_cycle@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/embedded.mobileprovision" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/excel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/exit_full_screen_btn@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/exit_full_screen_btn@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/fonts.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/full_screen_btn@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/full_screen_btn@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/html.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iPadSetBrushView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iPadUpdateTipsView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ipadPage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iphone6@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iphone6plus@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_AMS-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Caligraphic-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Caligraphic-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Fraktur-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Fraktur-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Main-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Main-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Main-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Math-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Math-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Math-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_SansSerif-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_SansSerif-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_SansSerif-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Script-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Size1-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Size2-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Size3-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Size4-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/KaTeX_Typewriter-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/fonts/ionicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/more_detail@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/more_detail@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/neteaseApp.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/other.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/pdf64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/picture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/powerpoint.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/rar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/recommendApp.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/small_pause_btn@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/small_pause_btn@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/small_play_btn@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/small_play_btn@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/swf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonAlbum@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonAlbum@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonCamera@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonCamera@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonHandwrite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonHandwrite@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonHideKeyboard@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonHideKeyboard@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonRecord@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonRecord@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonScan@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/EditMod/editModButtonScan@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/ViewMod/move@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/ViewMod/move@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/ViewMod/noteBookSelected@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/EditView/ViewMod/noteBookSelected@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/Group/GroupMyGroup/newMessage@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/Group/GroupMyGroup/newMessage@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/Group/GroupMyGroup/silent@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/Group/GroupMyGroup/silent@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/Search@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/Search@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellAttachIcon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellAttachIcon@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellFavoriteIcon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellFavoriteIcon@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellMenuDelete@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellMenuDelete@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellMenuFavorite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/cellMenuFavorite@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/createGroupButtonIcon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/createGroupButtonIcon@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/icon_sort@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/icon_sort@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/moreButtonIcon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/moreButtonIcon@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/more_option@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/more_option@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-more-pressed@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-more-pressed@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-more@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-more@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-normal@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-normal@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-pressed@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/newNote-pressed@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/point@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/point@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_group@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_group@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_group_selected@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_group_selected@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_my@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_my@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_my_selected@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_my_selected@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_settings@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_settings@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_settings_selected@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_settings_selected@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_ydoc@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_ydoc@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_ydoc_selected@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/HomePage/tabbar_ydoc_selected@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotebook/foldNotebook@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotebook/foldNotebook@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotebook/unfoldNotebookGroup@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotebook/unfoldNotebookGroup@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotes/pullToSyncArrow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotes/pullToSyncArrow@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotes/stick@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotes/stick@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotes/unSync@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/MyNotes/unSync@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/Preference/MyInfo_bg@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/Preference/MyInfo_bg@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/UIImages/chooseDirPathHint@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/UIImages/UIImages/chooseDirPathHint@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/attachCellBackground@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/attachCellBackground@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/background@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/background@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/bottomPaper@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/bottomPaper@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/imageCellBackground@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/imageCellBackground@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/navigation@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/navigation@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/themeIcon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/brown/themeIcon@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/default/themeIcon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/theme/default/themeIcon@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/txt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/word.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/有道云笔记" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/AFNetworking.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/ActionSheetPicker_3_0.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/BlocksKit.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/FDFullscreenPopGesture.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/FMDB.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/Masonry.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/NullSafe.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/PomeloPush.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/Reachability.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SCLAlertView_Objective_C.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SDWebImage.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SFHFKeychainUtils.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SVPullToRefresh.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/SwipeView.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/YYKeyboardManager.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/YYModel.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/Frameworks/libwebp.framework/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/css/default.min-dc5852d0bc.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/css/highlight-preview.min-1f4eb4a384.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/scripts/highlight.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/scripts/index-851a5ce18a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/scripts/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PkgInfo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/ShareExtension.appex/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/PlugIns/TodayViewExtensionGeneral.appex/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/TencentOpenApi_IOS_Bundle.bundle/local.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/UnRAR.vcproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/UnRARDll.vcproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/WeiboSDK.bundle/others/countryList" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/acknow.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/base64.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/bulb-version.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/bulb.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/bulb_main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/bulb_main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/bulb_vendors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/defaultNote.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/dict_parser.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/diff.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/diff.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editorApi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editordiff.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/groupSearch/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/htmldiff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ios_io.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ios_ioTest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iphone-editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iphone-readMod.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iphone-readMod.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/iphone-readMod.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/css/markdown-mobile-4fa96b95e5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/markdown-mobile-0bfd44dad9.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/mobile/markdown-mobile-1c4b867427.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/msc.dep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/personalTable/mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/personalTable/vendor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/personalTable/ynoteIndex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/personalTable/ynoteTable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/readMod-vendor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/reader-iphone.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/reader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/sample.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/vendor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/xml_convertor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/xml_convertor.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AllRun.py" afterPath="$PROJECT_DIR$/AllRun.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppiumServer.py" afterPath="$PROJECT_DIR$/AppiumServer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/common.py" afterPath="$PROJECT_DIR$/Common/common.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/index.html" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/scripts/highlight.pack.js" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/scripts/highlight.pack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/scripts/jquery.min.js" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/JSPreView/scripts/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/TencentOpenApi_IOS_Bundle.bundle/local.html" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/TencentOpenApi_IOS_Bundle.bundle/local.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/UnRAR.vcproj" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/UnRAR.vcproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/UnRARDll.vcproj" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/UnRARDll.vcproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/acknow.txt" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/acknow.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/base64.js" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/base64.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/dict_parser.html" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/dict_parser.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editor.css" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editor.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editorApi.js" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editorApi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editordiff.css" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/editordiff.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/htmldiff.js" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/htmldiff.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ios_io.js" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ios_io.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ios_ioTest.js" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/ios_ioTest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/msc.dep" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/msc.dep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/parser.js" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/parser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/personalTable/ynoteTable.html" afterPath="$PROJECT_DIR$/AppList/有道云笔记5.9.1.app/personalTable/ynoteTable.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SingleRun.py" afterPath="$PROJECT_DIR$/SingleRun.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCase-note/Mine/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/Mine/.cache/v/cache/lastfailed" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCase-note/Mine/mine_checkin_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_checkin_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCase-note/View/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/View/.cache/v/cache/lastfailed" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caseList.txt" afterPath="$PROJECT_DIR$/caseList.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/report.html" afterPath="$PROJECT_DIR$/report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sendEmailreport.py" afterPath="$PROJECT_DIR$/sendEmailreport.py" />
     </list>
     <ignored path="ynoteios-appium-test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -432,21 +45,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="caseList.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="caseList.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/caseList.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            <state relative-caret-position="677">
+              <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sendEmailreport.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sendEmailreport.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -505,19 +128,19 @@
         <option value="$PROJECT_DIR$/Login/testdemo.py" />
         <option value="$PROJECT_DIR$/AllCaseRun.py" />
         <option value="$PROJECT_DIR$/choose_run.py" />
-        <option value="$PROJECT_DIR$/sendEmailreport.py" />
         <option value="$PROJECT_DIR$/TestCase/EditorTool/color_note_test.py" />
         <option value="$PROJECT_DIR$/TestCase/EditorTool/rightalign_note_test.py" />
         <option value="$PROJECT_DIR$/TestCase/Mine/mine_forgroupbusiness_test.py" />
         <option value="$PROJECT_DIR$/TestCase/Mine/mine_forusersurvey_test.py" />
         <option value="$PROJECT_DIR$/TestCase/NoteHandle/attention_note_test.py" />
         <option value="$PROJECT_DIR$/AppiumServer.py" />
-        <option value="$PROJECT_DIR$/caseList.txt" />
         <option value="$PROJECT_DIR$/Common/common.py" />
         <option value="$PROJECT_DIR$/SingleRun.py" />
         <option value="$PROJECT_DIR$/TestCase-note/Mine/mine_checkin_test.py" />
         <option value="$PROJECT_DIR$/AllRun.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/sendEmailreport.py" />
+        <option value="$PROJECT_DIR$/caseList.txt" />
       </list>
     </option>
   </component>
@@ -897,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1489382146625</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="readme&#10;">
+      <created>1489389858285</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1489389858285</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -933,10 +563,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1366" height="677" extended-state="6" />
+    <frame x="0" y="23" width="1366" height="677" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16431227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16431227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -983,7 +613,8 @@
     <MESSAGE value="readme" />
     <MESSAGE value="edit case&#10;" />
     <MESSAGE value="add allRUN.py  &#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add allRUN.py  &#10;" />
+    <MESSAGE value="readme&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1247,14 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sendEmailreport.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/color_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1373,18 +996,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/caseList.txt">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="677">
+          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/sendEmailreport.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        <state relative-caret-position="270">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caseList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
