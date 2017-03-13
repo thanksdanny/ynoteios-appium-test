@@ -2,16 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0816d6e-2bce-47b1-8cef-540068a39447" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AllCaseRun.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/run.py" afterPath="$PROJECT_DIR$/choose_run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AllRun.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Login/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Login/testdemo_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Mine/.cache/v/cache/lastfailed" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Mine/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Profile/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Share/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/.cache/v/cache/lastfailed" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/View/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase-note/__init__.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Login/.cache/v/cache/lastfailed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Share/.cache/v/cache/lastfailed" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AllCaseRun.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/Create/.cache/v/cache/lastfailed" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_audioword_new_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_audioword_new_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_audioword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_audioword_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_linkword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_linkword_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_mdword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_mdword_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_notechineseword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_notechineseword_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_noteword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_noteword_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_scanword_notest.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_scanword_notest.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_uploadpicword_notest.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_uploadpicword_notest.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_voiceword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_voiceword_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/create_writeword_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Create/create_writeword_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Create/word" afterPath="$PROJECT_DIR$/TestCase-note/Create/word" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/.cache/v/cache/lastfailed" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/bgcolor_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/bgcolor_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/bold_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/bold_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/color_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/color_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/italic_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/italic_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/leftIndent_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/leftIndent_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/leftalign_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/leftalign_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/rightIndent_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/rightIndent_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/rightalign_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/rightalign_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/sizeincrease_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/sizeincrease_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/sizeminus_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/sizeminus_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/sort_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/sort_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/strike_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/strike_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/textcenter_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/textcenter_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/underline_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/underline_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/EditorTool/unsort_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/EditorTool/unsort_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Login/login_126_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Login/login_126_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Login/login_163.py" afterPath="$PROJECT_DIR$/TestCase-note/Login/login_163.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Login/login_out_163.py" afterPath="$PROJECT_DIR$/TestCase-note/Login/login_out_163.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Login/login_qq.py" afterPath="$PROJECT_DIR$/TestCase-note/Login/login_qq.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Login/login_yeah_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Login/login_yeah_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/Login/.cache/v/cache/lastfailed" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_checkin_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_checkin_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_forfavorite_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_forfavorite_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_forgroupbusiness_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_forgroupbusiness_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_formessage_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_formessage_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_forshare_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_forshare_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_forstar_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_forstar_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_fortag_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_fortag_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_forusersatisfaction_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_forusersatisfaction_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_forusersurvey_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_forusersurvey_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_membercenter_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_membercenter_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_setting_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_setting_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mine/mine_userinfo_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Mine/mine_userinfo_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/.cache/v/cache/lastfailed" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/attention_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/attention_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/decode_oldnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/decode_oldnote_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/encrypt_newnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/encrypt_newnote_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/history_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/history_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/move_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/move_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NoteHandle/readmodel_note_test.py" afterPath="$PROJECT_DIR$/TestCase-note/NoteHandle/readmodel_note_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Profile/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/Profile/.cache/v/cache/lastfailed" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Profile/profile_area_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Profile/profile_area_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Profile/profile_nick_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Profile/profile_nick_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Profile/profile_resume_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Profile/profile_resume_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Profile/profile_sex_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Profile/profile_sex_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Profile/profile_vip_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Profile/profile_vip_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_exclnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_exclnote_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_newnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_newnote_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_notebook_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_notebook_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_oldnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_oldnote_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_othernote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_othernote_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_pdfnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_pdfnote_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_picnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_picnote_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share/share_wordnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share/share_wordnote_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share_rights/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/Share/.cache/v/cache/lastfailed" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share_rights/shareright_file_comment_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/shareright_file_comment_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share_rights/shareright_file_no_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/shareright_file_no_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share_rights/shareright_note_comment_edit_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/shareright_note_comment_edit_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share_rights/shareright_note_comment_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/shareright_note_comment_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Share_rights/shareright_note_no_test.py" afterPath="$PROJECT_DIR$/TestCase-note/Share_rights/shareright_note_no_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/View/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/TestCase-note/View/.cache/v/cache/lastfailed" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_audio_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_audio_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_js_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_js_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_md_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_md_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_newnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_newnote_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_oldnote_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_oldnote_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_pic_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_pic_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_scan_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_scan_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_txt_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_txt_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/View/view_word_test.py" afterPath="$PROJECT_DIR$/TestCase-note/View/view_word_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/choose_run.py" afterPath="$PROJECT_DIR$/SingleRun.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppiumServer.py" afterPath="$PROJECT_DIR$/AppiumServer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Login/login_126_test.py" afterPath="$PROJECT_DIR$/Login/login_126_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Share/share_newnote_test.py" afterPath="$PROJECT_DIR$/Share/share_newnote_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Share/share_notebook_test.py" afterPath="$PROJECT_DIR$/Share/share_notebook_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/View/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/View/.cache/v/cache/lastfailed" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caseList.txt" afterPath="$PROJECT_DIR$/caseList.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/report.html" afterPath="$PROJECT_DIR$/report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sendEmailreport.py" afterPath="$PROJECT_DIR$/sendEmailreport.py" />
     </list>
     <ignored path="ynoteios-appium-test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,31 +124,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="caseList.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/caseList.txt">
+      <file leaf-file-name="AllRun.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AllRun.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="share_newnote_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Share/share_newnote_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="choose_run.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/choose_run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+            <state relative-caret-position="390">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -64,12 +136,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppiumServer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AppiumServer.py">
+      <file leaf-file-name="SingleRun.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SingleRun.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="63">
+              <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,33 +163,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Profile/profile_area_test.py" />
-        <option value="$PROJECT_DIR$/Common/common.py" />
-        <option value="$PROJECT_DIR$/runServer.py" />
-        <option value="$PROJECT_DIR$/TestSuite.py" />
-        <option value="$PROJECT_DIR$/runSuite.py" />
-        <option value="$PROJECT_DIR$/caseList" />
-        <option value="$PROJECT_DIR$/Create/create_uploadpicword_test.py" />
-        <option value="$PROJECT_DIR$/Create/create_scanword_test.py" />
-        <option value="$PROJECT_DIR$/Constant/create_constant.py" />
-        <option value="$PROJECT_DIR$/Create/create_linkword_test.py" />
-        <option value="$PROJECT_DIR$/Create/create_audioword_test.py" />
-        <option value="$PROJECT_DIR$/Create/create_audioword_new_test.py" />
-        <option value="$PROJECT_DIR$/Create/create_mdword_test.py" />
         <option value="$PROJECT_DIR$/Create/create_notechineseword_test.py" />
         <option value="$PROJECT_DIR$/Create/create_scanword_notest.py" />
         <option value="$PROJECT_DIR$/Create/create_uploadpicword_notest.py" />
         <option value="$PROJECT_DIR$/Create/create_noteword_test.py" />
         <option value="$PROJECT_DIR$/Login/login_163.py" />
-        <option value="$PROJECT_DIR$/Login/login_out_163.py" />
-        <option value="$PROJECT_DIR$/Login/login_qq.py" />
-        <option value="$PROJECT_DIR$/Login/login_yeah_test.py" />
         <option value="$PROJECT_DIR$/Mine/mine_checkin_test.py" />
         <option value="$PROJECT_DIR$/Share_rights/shareright_note_comment_edit_test.py" />
         <option value="$PROJECT_DIR$/NoteHandle/attention_note_test.py" />
         <option value="$PROJECT_DIR$/NoteHandle/history_note_test.py" />
         <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/sendEmailreport.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Mine/mine_userinfo_test.py" />
         <option value="$PROJECT_DIR$/EditorTool/bgcolor_note_test.py" />
@@ -133,13 +190,30 @@
         <option value="$PROJECT_DIR$/EditorTool/underline_note_test.py" />
         <option value="$PROJECT_DIR$/EditorTool/unsort_note_test.py" />
         <option value="$PROJECT_DIR$/EditorTool/rightalign_note_test.py" />
-        <option value="$PROJECT_DIR$/AllCaseRun.py" />
-        <option value="$PROJECT_DIR$/Login/login_126_test.py" />
         <option value="$PROJECT_DIR$/caseList.txt" />
         <option value="$PROJECT_DIR$/AppiumServer.py" />
-        <option value="$PROJECT_DIR$/choose_run.py" />
-        <option value="$PROJECT_DIR$/Share/share_notebook_test.py" />
+        <option value="$PROJECT_DIR$/Login/login_126_test.py" />
+        <option value="$PROJECT_DIR$/Share/share_exclnote_test.py" />
         <option value="$PROJECT_DIR$/Share/share_newnote_test.py" />
+        <option value="$PROJECT_DIR$/Share/share_notebook_test.py" />
+        <option value="$PROJECT_DIR$/Share/share_oldnote_test.py" />
+        <option value="$PROJECT_DIR$/Share/share_othernote_test.py" />
+        <option value="$PROJECT_DIR$/Share/share_pdfnote_test.py" />
+        <option value="$PROJECT_DIR$/Share/share_picnote_test.py" />
+        <option value="$PROJECT_DIR$/Share/share_wordnote_test.py" />
+        <option value="$PROJECT_DIR$/Login/login_out_163.py" />
+        <option value="$PROJECT_DIR$/Login/login_yeah_test.py" />
+        <option value="$PROJECT_DIR$/Login/login_qq.py" />
+        <option value="$PROJECT_DIR$/Login/testdemo.py" />
+        <option value="$PROJECT_DIR$/AllCaseRun.py" />
+        <option value="$PROJECT_DIR$/choose_run.py" />
+        <option value="$PROJECT_DIR$/sendEmailreport.py" />
+        <option value="$PROJECT_DIR$/TestCase/EditorTool/color_note_test.py" />
+        <option value="$PROJECT_DIR$/TestCase/EditorTool/rightalign_note_test.py" />
+        <option value="$PROJECT_DIR$/TestCase/Mine/mine_forgroupbusiness_test.py" />
+        <option value="$PROJECT_DIR$/TestCase/Mine/mine_forusersurvey_test.py" />
+        <option value="$PROJECT_DIR$/TestCase/NoteHandle/attention_note_test.py" />
+        <option value="$PROJECT_DIR$/SingleRun.py" />
       </list>
     </option>
   </component>
@@ -201,43 +275,36 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestCase" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Profile" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in MyTestCase and test_view_js">
-    <configuration default="false" name="TestSuite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.py.test in MyTestCase and test_mine_forusersurvey">
+    <configuration default="false" name="py.test in MyTestCase and test_color_note" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ynoteios-appium-test" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/choose_run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="sendEmailreport" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ynoteios-appium-test" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sendEmailreport.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/TestCase/EditorTool/color_note_test.py" />
+      <option name="keywords" value="MyTestCase and test_color_note" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="true" />
       <method />
     </configuration>
     <configuration default="false" name="py.test in MyTestCase and test_rightalign_note" type="tests" factoryName="py.test" temporary="true">
@@ -257,31 +324,14 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/EditorTool/rightalign_note_test.py" />
+      <option name="testToRun" value="$PROJECT_DIR$/TestCase/EditorTool/rightalign_note_test.py" />
       <option name="keywords" value="MyTestCase and test_rightalign_note" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
       <option name="USE_KEYWORD" value="true" />
       <method />
     </configuration>
-    <configuration default="false" name="AppiumServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ynoteios-appium-test" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppiumServer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test in MyTestCase and test_view_js" type="tests" factoryName="py.test" temporary="true">
+    <configuration default="false" name="py.test in MyTestCase and test_mine_checkin" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -298,8 +348,56 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/View/view_js_test.py" />
-      <option name="keywords" value="MyTestCase and test_view_js" />
+      <option name="testToRun" value="$PROJECT_DIR$/TestCase/Mine/mine_checkin_test.py" />
+      <option name="keywords" value="MyTestCase and test_mine_checkin" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in MyTestCase and test_mine_forgroupbusiness" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ynoteios-appium-test" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/TestCase/Mine/mine_forgroupbusiness_test.py" />
+      <option name="keywords" value="MyTestCase and test_mine_forgroupbusiness" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in MyTestCase and test_mine_forusersurvey" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ynoteios-appium-test" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/TestCase/Mine/mine_forusersurvey_test.py" />
+      <option name="keywords" value="MyTestCase and test_mine_forusersurvey" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
       <option name="USE_KEYWORD" value="true" />
@@ -440,19 +538,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.TestSuite" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sendEmailreport" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_rightalign_note" />
-      <item index="3" class="java.lang.String" itemvalue="Python.AppiumServer" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_view_js" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_color_note" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_rightalign_note" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_mine_checkin" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_mine_forgroupbusiness" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_mine_forusersurvey" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_view_js" />
-        <item index="1" class="java.lang.String" itemvalue="Python.TestSuite" />
-        <item index="2" class="java.lang.String" itemvalue="Python.AppiumServer" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_mine_forusersurvey" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_mine_forgroupbusiness" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_mine_checkin" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_rightalign_note" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sendEmailreport" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in MyTestCase and test_color_note" />
       </list>
     </recent_temporary>
   </component>
@@ -495,39 +593,46 @@
       <option name="project" value="LOCAL" />
       <updated>1489050785162</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="edit case&#10;">
+      <created>1489140543158</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1489140543158</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_MyTestCase - 2017.03.09 at 16h 44m 53s.xml">
-      <configuration name="py.test in MyTestCase" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_MyTestCase_and_test_mine_checkin - 2017.03.09 at 13h 14m 17s.xml">
+    <history-entry file="py_test_in_MyTestCase_and_test_mine_checkin - 2017.03.13 at 12h 59m 19s.xml">
       <configuration name="py.test in MyTestCase and test_mine_checkin" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_MyTestCase_and_test_mine_checkin - 2017.03.09 at 14h 06m 21s.xml">
+    <history-entry file="py_test_in_MyTestCase_and_test_mine_checkin - 2017.03.13 at 13h 00m 51s.xml">
       <configuration name="py.test in MyTestCase and test_mine_checkin" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_MyTestCase_and_test_mine_checkin - 2017.03.09 at 14h 07m 35s.xml">
-      <configuration name="py.test in MyTestCase and test_mine_checkin" configurationId="tests" />
+    <history-entry file="py_test_in_MyTestCase_and_test_mine_forgroupbusiness - 2017.03.13 at 13h 04m 32s.xml">
+      <configuration name="py.test in MyTestCase and test_mine_forgroupbusiness" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_MyTestCase_and_test_rightalign_note - 2017.03.09 at 17h 11m 40s.xml">
+    <history-entry file="py_test_in_MyTestCase_and_test_mine_forusersurvey - 2017.03.13 at 13h 05m 15s.xml">
+      <configuration name="py.test in MyTestCase and test_mine_forusersurvey" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_MyTestCase_and_test_mine_forusersurvey - 2017.03.13 at 13h 05m 56s.xml">
+      <configuration name="py.test in MyTestCase and test_mine_forusersurvey" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_MyTestCase_and_test_mine_forusersurvey - 2017.03.13 at 13h 06m 45s.xml">
+      <configuration name="py.test in MyTestCase and test_mine_forusersurvey" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_MyTestCase_and_test_mine_forusersurvey - 2017.03.13 at 13h 07m 29s.xml">
+      <configuration name="py.test in MyTestCase and test_mine_forusersurvey" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_MyTestCase_and_test_mine_forusersurvey - 2017.03.13 at 13h 09m 18s.xml">
+      <configuration name="py.test in MyTestCase and test_mine_forusersurvey" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_MyTestCase_and_test_mine_forusersurvey - 2017.03.13 at 13h 11m 00s.xml">
+      <configuration name="py.test in MyTestCase and test_mine_forusersurvey" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_MyTestCase_and_test_rightalign_note - 2017.03.13 at 12h 57m 47s.xml">
       <configuration name="py.test in MyTestCase and test_rightalign_note" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_MyTestCase_and_test_shareright_note_comment_edit - 2017.03.09 at 14h 52m 09s.xml">
-      <configuration name="py.test in MyTestCase and test_shareright_note_comment_edit" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_MyTestCase_and_test_shareright_note_comment_edit - 2017.03.09 at 14h 53m 57s.xml">
-      <configuration name="py.test in MyTestCase and test_shareright_note_comment_edit" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_MyTestCase_and_test_view_js - 2017.03.10 at 16h 52m 28s.xml">
-      <configuration name="py.test in MyTestCase and test_view_js" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_mine_forfavorite_test_py - 2017.03.09 at 14h 09m 20s.xml">
-      <configuration name="py.test in mine_forfavorite_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_mine_forfavorite_test_py - 2017.03.09 at 14h 10m 36s.xml">
-      <configuration name="py.test in mine_forfavorite_test.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -537,6 +642,7 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33788395" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -549,9 +655,27 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33788395" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -582,329 +706,172 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="30" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Create/create_audioword_new_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create/create_audioword_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create/create_linkword_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create/create_mdword_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create/create_notechineseword_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create/create_voiceword_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-514">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create/create_uploadpicword_notest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create/create_scanword_notest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create/create_noteword_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="61" column="76" selection-start-line="61" selection-start-column="76" selection-end-line="61" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Login/login_163.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Login/login_out_163.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Login/login_qq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Login/login_yeah_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mine/mine_checkin_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Share_rights/shareright_note_no_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share_rights/shareright_note_no_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-765">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Share_rights/shareright_note_comment_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share_rights/shareright_note_comment_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-300">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Share_rights/shareright_note_comment_edit_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share_rights/shareright_note_comment_edit_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="671">
           <caret line="67" column="72" selection-start-line="67" selection-start-column="72" selection-end-line="67" selection-end-column="72" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Share_rights/shareright_file_no_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share_rights/shareright_file_no_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Share_rights/shareright_file_comment_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NoteHandle/history_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/NoteHandle/history_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NoteHandle/readmodel_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/NoteHandle/readmodel_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Common/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1382">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NoteHandle/attention_note_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="53" column="38" selection-start-line="53" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mine/mine_forgroupbusiness_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mine/mine_userinfo_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Mine/mine_userinfo_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Constant/editor_constant.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding>
-            <element signature="e#106#117#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/bgcolor_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/bgcolor_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/bold_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/bold_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/color_note_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/italic_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/italic_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="35" column="16" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/leftalign_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/leftalign_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/leftIndent_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/leftIndent_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/rightIndent_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/rightIndent_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/sizeincrease_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/sizeincrease_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/sizeminus_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/sizeminus_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/sort_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/sort_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/strike_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/strike_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/textcenter_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/textcenter_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/underline_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/underline_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/unsort_note_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/unsort_note_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sendEmailreport.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EditorTool/rightalign_note_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AllCaseRun.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Login/login_126_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/View/view_js_test.py">
+    <entry file="file://$PROJECT_DIR$/TestCase-note/View/view_js_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
@@ -928,37 +895,237 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/choose_run.py">
+    <entry file="file://$PROJECT_DIR$/caseList.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share/share_exclnote_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share/share_newnote_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share/share_notebook_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share/share_oldnote_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share/share_othernote_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share/share_pdfnote_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share/share_picnote_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Profile/profile_area_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-585">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share/share_wordnote_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Login/login_out_163.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Login/login_yeah_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Login/login_qq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Login/login_126_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="15" />
+          <folding>
+            <element signature="e#48#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Login/testdemo_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#48#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="144" column="38" selection-start-line="144" selection-start-column="38" selection-end-line="144" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Share_rights/shareright_file_comment_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendEmailreport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/color_note_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/EditorTool/rightalign_note_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constant/editor_constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Mine/mine_checkin_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Mine/mine_forgroupbusiness_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1365">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/Mine/mine_forusersurvey_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase-note/NoteHandle/attention_note_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllRun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Share/share_notebook_test.py">
+    <entry file="file://$PROJECT_DIR$/SingleRun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/caseList.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Share/share_newnote_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="63">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

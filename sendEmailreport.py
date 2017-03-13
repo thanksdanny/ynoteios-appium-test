@@ -13,7 +13,7 @@ class SendEmail():
     def sendReportmail(self, file):
 
         server_host = 'smtp.163.com'
-        header='ynoteios appium testing result'
+        header='ynoteios appium testing result: AllRun'
         to='ynotetest30@163.com;hzwujia@corp.netease.com'
         frome='ynotetest30@163.com'
 
