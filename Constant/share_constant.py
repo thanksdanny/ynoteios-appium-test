@@ -7,7 +7,7 @@
 class ShareConstant():
 
         #文件夹阅读密码
-        password='4321'
+        password='**'
         #测试分享的文件夹名称
         notebook_title='Share Test'
         #新笔记标题
