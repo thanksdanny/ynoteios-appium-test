@@ -5,15 +5,15 @@
 
 class LoginConstant():
 
-    user163=['ynotetestui@163.com','abc123']
+    user163=['*@163.com','*']
 
-    user126=['ynotetestui@126.com', 'abc123']
+    user126=['*@126.com', '*']
 
-    useryeah=['ynotetestui@yeah.net', 'abc123']
+    useryeah=['*@yeah.net', '*']
 
-    userweibo=['ynotetest120@163.com', 'youdao123']
+    userweibo=['*@163.com', '*']
 
-    uservip=['ynotetest130@163.com', 'abc123']
+    uservip=['*@163.com', '*']
 
-    userqq=['3312968607','youdao123']
+    userqq=['*','*']
 
