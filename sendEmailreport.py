@@ -13,9 +13,9 @@ class SendEmail():
     def sendReportmail(self, file):
 
         server_host = 'smtp.163.com'
-        header='ynoteios appium testing result: create'
-        to='ynotetest30@163.com;hzwujia@corp.netease.com'
-        frome='ynotetest30@163.com'
+        header='ynoteios appium testing result'
+        to='*@163.com'
+        frome='*@163.com'
 
         with open(file, 'rb')as f:
             mail_body = f.read()
@@ -31,7 +31,7 @@ class SendEmail():
         s = smtplib.SMTP()
         s.connect(server_host)
         s.ehlo()
-        s.login('ynotetest30@163.com','abc123')
+        s.login('*@163.com','***')
 
         s.sendmail(msg['from'], msg['to'], msg.as_string())
         print 'send email sucess!'
