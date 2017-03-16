@@ -7,7 +7,7 @@
 class NoteHandle_constant():
 
     notebook_title='NoteHandle'
-    password='4321'
+    password='*'
 
     #测笔记加密
     new_note='New note'
