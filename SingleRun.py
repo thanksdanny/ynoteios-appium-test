@@ -8,7 +8,7 @@ email=SendEmail()
 appiumserver=appiumServer()
 
 class runCase():
-    # /Users/wujia/Documents/code/testing/ynoteios-appium-test
+    # /~/Documents/code/testing/ynoteios-appium-test
 
     cur_dir = os.path.abspath(os.curdir)
     #get caselist
