@@ -8,7 +8,7 @@ class Shareright_Constant():
 
     notebook_title='Share right Test'
 
-    password='4321'
+    password='***'
 
     note_comment_title='新笔记 可评论'
 
