@@ -8,7 +8,7 @@ from appium import webdriver
 from appium.webdriver.common.touch_action import TouchAction
 
 #默认登录帐号
-up = ['163', 'ynotetestui@163.com', 'abc123']
+up = ['163', '*@163.com', '**']
 # 引导页数量
 N = 2
 i = 1
@@ -20,7 +20,7 @@ class Common_Util():
 
     def setup_app(self,login=1):
 
-        app = '/Users/wujia/Library/Developer/Xcode/DerivedData/YNote-ewvbkrazcxnhicayktmrgqqwzltv/' \
+        app = '***/Library/Developer/Xcode/DerivedData/YNote-ewvbkrazcxnhicayktmrgqqwzltv/' \
               'Build/Products/Debug-iphonesimulator/有道云笔记.app'
         self.driver = webdriver.Remote(
             command_executor='http://127.0.0.1:4723/wd/hub',
@@ -69,7 +69,7 @@ class Common_Util():
             #如果已登录上了
             if login==1:
                 pass
-                print "******登录过了 ynotetestui@163.com*****"
+                print "******登录过了 *@163.com*****"
             else:
                 #将登录的号注销掉
                 print "******登录过了,去注销帐号！*****"
@@ -78,7 +78,7 @@ class Common_Util():
         else:
             #如果没登录
             if login==1:
-                print "******重新去登录 ynotetestui@163.com*****"
+                print "******重新去登录 *@163.com*****"
                 self.login_in(up[1], up[2])
             else:
                 pass
